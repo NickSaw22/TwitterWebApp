@@ -1,0 +1,28 @@
+{
+  "people": [
+    {
+      "name":"Niraj",
+      "age": 20,
+      "image":"niraj.jpg",
+      "username":"niraj_55"
+    },
+    {
+      "name":"Amlan",
+      "age": 19,
+      "image":"amlan.jpg",
+      "username":"amlan_56"
+    },
+    {
+      "name":"Nikhil",
+      "age": 20,
+      "image":"nikhil.jpg",
+      "username":"nikhil_57"
+    },
+    {
+      "name":"Sankalp",
+      "age": 20,
+      "image":"sankalp.jpg",
+      "username":"sankalp_54"
+    }
+  ]
+}

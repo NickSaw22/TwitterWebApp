@@ -1,0 +1,19 @@
+*{
+	padding: 3px;
+	font-family: 'Kufam', cursive;
+
+}
+
+a{
+	font-family: 'Oswald', sans-serif;
+	color: black;
+}
+
+hr.dashed {
+  border-top: 2px dashed blue;
+}
+    
+
+hr.dotted {
+  border-top: 2px dotted white;
+}

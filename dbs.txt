@@ -1,0 +1,13 @@
+[register user:{
+    id,
+    fname,
+    lname,
+    email,
+    phno,
+    uname,
+    password
+}]
+
+login user:{
+    uname, password
+}
